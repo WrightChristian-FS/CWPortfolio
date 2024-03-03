@@ -1,0 +1,40 @@
+/* Add this to your CSS file */
+
+.logo {
+  transition: transform 0.3s ease-in-out;
+}
+
+.scrolled .logo {
+  transform: translateX(-1200%);
+}
+
+.vertical-line {
+  margin-top: 12px !important;
+  height: 30px;
+  width: 1px;
+  background-color: #ccc;
+  margin: 0 10px;
+}
+
+@media (max-width: 700px) {
+  .img-deco {
+    display: none !important;
+  }
+
+  .vertical-line {
+    display: none; /* Hide vertical lines on mobile */
+  }
+}
+
+/* Add this to your CSS file */
+.font-s {
+  font-size: 26px;
+  color: #003566 !important;
+}
+
+.nav-link.active {
+  color: blue !important; /* Set the desired color for the clicked link */
+}
+.yalee-blue {
+  color: #003566 !important;
+}

@@ -1,0 +1,65 @@
+/* App.css */
+
+/* Additional styles for your page content, if needed 
+h1 {
+  font-size: 3rem;
+}
+.pos {
+  background-image: url(../../asset/bgg.png);
+}
+
+.tos {
+}
+
+.gee {
+  height: 1000px;
+  width: 1000px;
+}*/
+
+.contact-section {
+  background-image: url(..//../asset/bgg.png);
+  height: 89vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.selfie {
+  height: 100%;
+  width: 1400px;
+  object-fit: cover;
+}
+
+@media (min-width: 900px) {
+  .icon-text-sec {
+    margin-right: 50px;
+  }
+
+  .show-element {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .element-to-hide {
+    display: none;
+  }
+
+  .contact-section {
+    background-image: none;
+  }
+  .show-element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.m_--t {
+  margin-top: 40px;
+}
+
+.paddingg{
+  padding: 15px;
+}
