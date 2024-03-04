@@ -29,12 +29,7 @@ const Intro = () => {
                         <div className="m__t">
                             <h1 className="sofia-sans hs">A Bit About Me</h1>
                             <p className="gayathri-regular paro">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                sed do eiusmod tempor incididunt ut ero labore et
-                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud exercitation ullamco poriti laboris nisi ut aliquip
-                                ex ea commodo consequat. Duis aute irure dolor in
-                                reprehenderit in uienply voluptate velit esse cillum
+                            As a seasoned IT professional and Developer, I bring a wealth of experience in managing complex IT infrastructures, leading significant migration and security projects, and developing innovative software solutions. My career spans various sectors, including healthcare, aviation, and corporate environments, where I have successfully spearheaded initiatives to enhance operational efficiency, security, and system usability. My technical proficiency is backed by a solid foundation of certifications, including CompTIA and Microsoft, ensuring I stay at the forefront of industry standards and practices. My projects reflect a commitment to excellence, strategic planning, and user-centric design, showcasing my ability to not only meet but exceed business requirements.
 
                             </p>
                         </div>
