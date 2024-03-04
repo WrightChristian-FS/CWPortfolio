@@ -31,51 +31,36 @@ const Develop = () => {
 
             <div className="card custom-primary width-height">
               <div className="card--header d-flex sofia-sans">
-                Project Title
+              BoxIT Pro
               </div>
 
               <div className="card-content">
                 <p className="gayathri-regular">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  xsdo eiusmod tempor incididunt utssss ero labore et dolore
-                  dddaaqsssssssss magna aliquass.Lorem ipsum dolor sit amet,
-                  adipisicing elit, sed do eisusssmod tempor incididunssero
-                  labore et dolore magna aliqua.Lorem ipsum dsit amet,
-                  onsectetur adipisicing elit, sed do eiusmod
+                I developed BoxIT Pro, an asset and employee management application tailored for small to medium-sized businesses. This project involved direct engagement with stakeholders to capture essential requirements, leading the design process, and implementing the front-end using React. I established a robust Postgres database, conducted A/B testing to refine user experience, and successfully deployed the application, demonstrating my comprehensive skill set in software development from concept to launch.
                 </p>
               </div>
             </div>
 
             <div className="card custom-primary width-height">
               <div className="card--header d-flex sofia-sans">
-                Project Title
+              Employee search API application 
               </div>
 
               <div className="card-content">
                 <p className="gayathri-regular">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  xsdo eiusmod tempor incididunt utssss ero labore et dolore
-                  dddaaqsssssssss magna aliquass.Lorem ipsum dolor sit amet,
-                  adipisicing elit, sed do eisusssmod tempor incididunssero
-                  labore et dolore magna aliqua.Lorem ipsum dsit amet,
-                  onsectetur adipisicing elit, sed do eiusmod{" "}
+                I crafted an innovative application designed to streamline employee data management, utilizing ReactJS and API integration to offer real-time search functionality. This project covered all development phases, from requirement gathering and technical documentation to UX/UI design and front-end coding. I developed and integrated APIs for efficient data retrieval and updates, supported by a Postgres database, culminating in a user-friendly, functional application that enhances organizational HR processes.
                 </p>
               </div>
             </div>
 
             <div className="card custom-primary width-height">
               <div className="card--header d-flex sofia-sans">
-                Project Title
+              HeadsUp Foundation Website Redesign
               </div>
 
               <div className="card-content">
-                <p className="gayathri-regular">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  xsdo eiusmod tempor incididunt utssss ero labore et dolore
-                  dddaaqsssssssss magna aliquass.Lorem ipsum dolor sit amet,
-                  adipisicing elit, sed do eisusssmod tempor incididunssero
-                  labore et dolore magna aliqua.Lorem ipsum dsit amet,
-                  onsectetur adipisicing elit, sed do eiusmod{" "}
+                <p className="gayathri-regular">                
+                  The HeadsUp Foundation, a non-profit organization dedicated to supporing at risk youth in Inglewood CA, required a comprehensive redesign of their existing website to enhance user engagement, improve resource accessibility, and modernize the visual appeal. The project aimed to create a more intuitive, informative, and interactive online presence that aligns with the foundation's mission to provide mental health resources and support to communities in need.
                 </p>
               </div>
             </div>

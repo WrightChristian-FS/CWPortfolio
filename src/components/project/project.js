@@ -29,20 +29,12 @@ const Project = () => {
                         <div>
                             <Card className="custom-primary heightss">
                                 <Card.Body className="card_body">
-                                    <Card.Title className="sofia-sans">Project Title</Card.Title>
+                                    <Card.Title className="sofia-sans">ERP migration project from AS/400 to Dynamics F&O</Card.Title>
                                     <Card.Subtitle className="d-flex custom-primary">
                                         CODAN MEDICAL
                                     </Card.Subtitle>
                                     <Card.Text className="text-font gayathri-regular">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna aliqua.Lorem ipsum dolor sit amet, adipisicing
-                                        elit, sed do eiusmod tempor incididunt ut ero labore et
-                                        dolore magna alids . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna
+                                    In a pivotal role, I led the migration of an outdated AS/400 ERP system to the modern Dynamics F&O platform, setting a global standard for ERP updates. My responsibilities encompassed liaising with stakeholders to define business needs, collaborating with vendors for system build and configuration, and ensuring data was transferred accurately and efficiently. I spearheaded employee training programs for the new system, ensuring a smooth transition pre and post-go-live. The project culminated in a robust platform equipped for long-term maintenance and support, validated through comprehensive testing to meet all operational objectives.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -51,20 +43,12 @@ const Project = () => {
                         <div>
                             <Card className="custom-primary heightss">
                                 <Card.Body className="card_body">
-                                    <Card.Title className="sofia-sans">Project Title</Card.Title>
+                                    <Card.Title className="sofia-sans">Corporate Security Implementation</Card.Title>
                                     <Card.Subtitle className="d-flex custom-primary">
                                         CODAN MEDICAL
                                     </Card.Subtitle>
                                     <Card.Text className="text-font gayathri-regular">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna aliqua.Lorem ipsum dolor sit amet, adipisicing
-                                        elit, sed do eiusmod tempor incididunt ut ero labore et
-                                        dolore magna alids . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna
+                                    I initiated and executed a comprehensive security overhaul, addressing both physical and cyber aspects to significantly reduce company risk. This involved implementing key fob access, surveillance systems, and alarm protocols, alongside identifying and mitigating cybersecurity vulnerabilities. My efforts led to the development of an annual cybersecurity training program, drastically cutting the company's risk profile and enhancing network security through strict access controls and monitoring. The successful implementation of Microsoft 365 defender practices and MFA protocols positioned the company to secure a cybersecurity insurance policy, marking a significant advancement in our security posture.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -73,20 +57,12 @@ const Project = () => {
                         <div>
                             <Card className="custom-primary heightss">
                                 <Card.Body className="card_body">
-                                    <Card.Title className="sofia-sans">Project Title</Card.Title>
+                                    <Card.Title className="sofia-sans">Airport Technology Migration (LAX Terminal 5)</Card.Title>
                                     <Card.Subtitle className="d-flex custom-primary">
-                                        CODAN MEDICAL
+                                        Amadeus
                                     </Card.Subtitle>
                                     <Card.Text className="text-font gayathri-regular">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna aliqua.Lorem ipsum dolor sit amet, adipisicing
-                                        elit, sed do eiusmod tempor incididunt ut ero labore et
-                                        dolore magna alids . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna . Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut ero labore et dolore
-                                        magna
+                                    As part of the "LAX Big Move" initiative, I collaborated with a team of IT engineers to overhaul the technology operations for LAX Terminal 5. My role involved understanding the specific needs of airport operations, configuring terminal management systems, and ensuring seamless integration with airline proprietary software. I was instrumental in updating and synchronizing airport display systems, facilitating a smooth transition from the previous vendor and conducting comprehensive training for all end-users, thereby enhancing the terminal's operational efficiency and traveler experience.
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
