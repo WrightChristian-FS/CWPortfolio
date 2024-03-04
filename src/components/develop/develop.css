@@ -1,0 +1,102 @@
+/* YourComponent.css */
+
+.fill-height {
+  height: 100%;
+}
+
+.vertical-line-container {
+  display: flex;
+  align-items: center;
+}
+
+.vertical-lines {
+  border-left: 1px solid black; /* Adjust border width and color as needed */
+  height: 90%; /* Adjust height as needed */
+  margin: 0 10px; /* Adjust margin as needed for spacing */
+}
+
+/* CardComponent.css */
+
+.card {
+  background-color: #000;
+  color: #e0e1dd;
+  border-radius: 20px;
+  padding: 20px;
+  max-width: 800px;
+  min-width: 200px;
+  margin: 20px;
+  padding: auto;
+}
+
+.card--header {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.card-content {
+  font-size: 16px;
+}
+
+.width-height {
+  max-width: 1000px;
+  min-width: 190px;
+}
+
+@media (max-width: 700px) {
+  .card {
+    width: 330px;
+  }
+  .flex__col {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 700px) {
+  .j-center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  /* .img__size{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+  } */
+}
+
+@media (max-width: 1100px) {
+  .flex__col {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 700px) {
+  /* .img__size {
+    height: 250px;
+    width: 200px;
+    margin-left: 15px;
+  } */
+
+  .mar-right {
+    margin-right: 80px;
+  }
+
+  .mar__left {
+    margin-left: 45px;
+  }
+}
+
+.d-f {
+  display: flex;
+  flex-direction: column;
+}
+
+.img__size {
+  height: 145px;
+  width: 145px;
+  margin-top: 6px;
+  margin-left: 50px;
+}

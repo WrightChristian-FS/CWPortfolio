@@ -1,0 +1,112 @@
+.title-design {
+  color: #003566;
+}
+
+.hori-line {
+  border: 1px solid #000;
+  margin: 6px 73px;
+}
+
+.horizontal-line-1 {
+  border: 1px solid #000;
+  margin: 4px 65px;
+}
+
+/* .section-two {
+  background-color: blue;
+} */
+
+/* YourComponent.css */
+.full-height {
+  height: 100vh; /* 100% viewport height */
+}
+
+/* .yellow-background {
+  background-color: yellow;
+}*/
+
+.bluee-background {
+  background-color: #003566;
+}
+
+.btn-deco {
+  background: none;
+  border: none;
+  color: inherit;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  text-decoration: none;
+}
+
+.margin-right {
+  margin-left: 18px;
+  margin-top: -1px;
+}
+
+/* Section 2 CSS */
+
+.margin-botm {
+  margin-top: 100px;
+}
+
+.sec-2-title {
+  color: #e0e1dd;
+}
+
+.custom-modal > .modal-dialog-centered {
+  align-items: normal;
+}
+
+.background {
+  background-color: rgb(209, 0, 0);
+}
+
+.para-changes {
+  min-width: 240px;
+  max-width: 600px;
+}
+
+/* media query for large screen */
+@media (min-width: 600px) {
+  .margin--top {
+    margin-top: 200px;
+  }
+}
+
+/* media query for small screen */
+@media (max-width: 600px) {
+}
+
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #001d3d;
+  font-weight: 550;
+  transition: background-color 0.3s ease;
+}
+
+.para_width {
+  min-width: 240;
+  max-width: 400px;
+}
+
+.yale-color {
+  color: #001d3d !important;
+}
+
+.para-color {
+  color: #003566 !important;
+}
+
+h5 {
+  font-size: 18px !important;
+  margin-left: 30px;
+}
+
+.h-5 {
+  font-weight: 550;
+  font-size: 17px !important;
+}

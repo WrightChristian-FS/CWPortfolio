@@ -1,0 +1,114 @@
+/* YourComponent.css */
+.full-height {
+  height: 100%; /* 100% viewport height */
+}
+
+/* .yellow-background {
+    background-color: yellow;
+  }
+
+  .blue-background {
+    background-color: blue;
+  } */
+
+.horizontal-line {
+  border: 1px solid #000;
+  margin: 8px 220px;
+}
+
+/* Card.css */
+
+.margin-bottom {
+  margin-top: 35px;
+}
+
+.vertical-line-column {
+  display: flex;
+  align-items: center;
+}
+
+.vertical-lines {
+  border-left: 1px solid black; /* Adjust border width and color as needed */
+  height: 70%; /* Adjust height as needed */
+  margin: 0 auto; /* Center the line horizontally */
+}
+
+.flex-col {
+  display: flex;
+
+  flex-direction: column;
+}
+
+.margin-l {
+  margin-top: 25px;
+  margin-left: 49px;
+}
+
+.color-alert {
+  height: 150px;
+  width: 300px;
+  background-color: #003566;
+  color: #e0e1dd;
+  border-radius: 15px;
+}
+/* media query for large screen */
+@media (min-width: 600px) {
+  .margin-left {
+    margin-left: 70px;
+  }
+
+  .flex-col {
+    flex-wrap: wrap;
+  }
+
+  .margin-_top {
+    margin-top: 120px;
+  }
+}
+
+/* media query for small screen */
+@media (max-width: 600px) {
+  .right {
+    display: flex;
+    flex-direction: column;
+  }
+  .img-layout {
+    height: 150px;
+  }
+}
+
+@media (max-width: 700px) {
+  .margin-_top {
+    margin-top: 20px;
+  }
+  .heightss {
+    height: 503px !important;
+  }
+
+  .m__p {
+    margin-left: 160px !important;
+  }
+}
+
+.custom-card-design {
+  height: 120px !important;
+  width: 220px !important;
+  text-align: center !important;
+  border-radius: 10px !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.margin_top {
+  margin-bottom: -2px;
+}
+
+.card_body {
+  padding: 15px;
+  align-items: center;
+  height: 100px;
+  min-width: 200px;
+  max-width: 700px;
+  border-radius: 50px;
+  min-height: 215px;
+}
